@@ -2,6 +2,9 @@
 ## Description
 This software watches your discord server for user activity. Visualize each persons statuses and their time spent on discord.
 
+![dashboard](https://github.com/jankubatt/Discord-Server-Monitor/blob/main/dashboard.webp)
+![user](https://github.com/jankubatt/Discord-Server-Monitor/blob/main/user.webp)
+
 ## Prerequisites
 - MySQL database
 - Discord bot
